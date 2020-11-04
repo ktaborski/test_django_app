@@ -1,4 +1,4 @@
-name: Bump versuib
+name: Bump version
 
 on:
   push:
